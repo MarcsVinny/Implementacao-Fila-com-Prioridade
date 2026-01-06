@@ -25,3 +25,15 @@ A lógica principal consiste em:
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/MarcsVinny/Implementacao-Fila-com-Prioridade.git
+
+2. **Acesse a pasta do projeto**
+   ```bash
+   cd Implementacao-Fila-com-Prioridade
+
+3. **Instale as dependências do projeto**
+   ```bash
+   npm install
+
+4. **Execute o programa**
+   ```bash
+   npx ts-node src/index.ts
