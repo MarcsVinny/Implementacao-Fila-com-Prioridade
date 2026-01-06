@@ -1,0 +1,11 @@
+{
+  "name": "implementacao-fila-com-prioridade",
+  "version": "1.0.0", 
+  "description": "Atividade de Estrutura de Dados",
+  "main": "src/index.js",
+  "devDependencies": {
+    "@types/node": "^22.x.x",
+    "ts-node": "^10.x.x",
+    "typescript": "^5.x.x"
+  }
+}
